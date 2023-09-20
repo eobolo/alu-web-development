@@ -4,6 +4,7 @@ body {
     background-image: url("images/Bitmap7.png");
     background-repeat: no-repeat;
     background-color: hsl(39, 99%, 44%);
+    /*background-color: rgba(7,22,41,0.8);*?
 }
 .flex-size_1 {
     flex: 2;
