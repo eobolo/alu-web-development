@@ -1,20 +1,12 @@
 body {
     display: flex;
     flex-direction: column;
-    flex-shrink: 0;
-    background-image: url("images/Bitmap7.png");
-    background-repeat: no-repeat;
-    /*background:
-    	url("images/Bitmap7.png") no-repeat,
-    	radial-gradient(85.9% 85.9% at 50% 14.1%, rgba(41, 48, 61, 0.00) 0%, rgba(7,22,41,1.0) 100%), #000;
-    background-blend-mode: normal, color;
-    */
-    background-color: hsl(39, 99%, 44%);
+    background-image: url("images/Bitmap7.jpg");
     /*background-color: rgba(7,22,41,0.8);*/
 }
 .flex-size_1 {
     flex: 2;
-    /*background-image: url("images/Bitmap7.png");*/
+    /*background-image: url("images/Bitmap7.png;*/
 }
 .flex-size_2 {
     flex: 10;
