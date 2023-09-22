@@ -7,11 +7,11 @@ the first image showing the positioning layout of my code and the second the res
 
 # **Postional layout for structure and semantics**
 
-![Layout](Layout.jpg)
+![Layout](images/Layout.jpg)
 
 # **Final Result of Homepage**
 
-![Homepage](Homepage.jpg)
+![Homepage](images/Homepage.jpg)
 
 # **contacts**
 
