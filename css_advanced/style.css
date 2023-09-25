@@ -197,6 +197,7 @@ body {
 .third_section {
     background-color: #FFFFFF;
     margin: -6% -45.35% 0 -17%;
+    padding-top: 10px;
 }
 .tutorial {
     text-align: center;
